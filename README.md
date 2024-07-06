@@ -1,7 +1,7 @@
 <b><h1>Hospital Management System</h1><br>
 <h1>Introduction</h1><br>
 
-This Hospital Management System (HMS) is a web-based application designed to streamline various operations within a hospital environment. The system is built using JavaServer Pages (JSP) and Servlets, providing a scalable and efficient solution for managing hospital resources and services.<br>
+This Hospital Management System (HMS) is a web-based application designed to streamline various operations within a hospital environment. The system is built using JavaServer Pages (JSP) and Servlets, providing a scalable and efficient solution for managing hospital resources and serviceS.<br>
 
 <h1>Features</h1><br>
 
